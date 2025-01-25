@@ -79,6 +79,7 @@ footer {
     align-items: center;
     position: absolute;
     bottom: 10px;
+    left: 20px;
 }
 
 #title_website h2 {

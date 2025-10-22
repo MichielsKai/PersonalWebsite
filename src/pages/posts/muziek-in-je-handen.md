@@ -8,21 +8,13 @@ tags:
   - muziek
   - hobby
 ---
-Al sinds mijn vier jaar speel ik piano, en een logische vraag dat veel mensen me stelden was "oh, welke muziek luister je zoal?". Mijn antwoord was telkens hetzelfde. Ik luisterde niet echt naar muziek, zei ik, en dat was ook zo, mijn Spotify account was zo goed als ongebruikt.
+Al sinds mijn vier jaar speel ik piano, en een logische vraag dat veel mensen me stelden was "oh, welke muziek luister je zoal?". Mijn antwoord was telkens hetzelfde. **Ik luisterde niet echt naar muziek**, zei ik, en dat was ook zo, mijn Spotify account was zo goed als ongebruikt.
 
-
-
-Als ik hierop terugkijk, dan denk ik dat dit kwam door een diepe onzekerheid. Als je je muziek smaak deelt, dan stuur je een heel persoonlijk aspect van je leven de wereld in. Het geeft mensen de kans om een beeld van je te vormen, goed of slecht. Waar je naar luistert, bepaalt deels wie je bent.
-
-
+Als ik hierop terugkijk, dan denk ik dat dit kwam door een diepe onzekerheid. **Als je je muziek smaak deelt, dan stuur je een heel persoonlijk aspect van je leven de wereld in**. Het geeft mensen de kans om een beeld van je te vormen, goed of slecht. Waar je naar luistert, bepaalt deels wie je bent.
 
 Een tweetal jaar geleden veranderde dit bij mij. Ik begon stilletjes aan iets meer naar muziek te luisteren omdat ik toen op kot zat en ik wilde de stilte wat vullen.
 
-
-
-Ik had al enkele keren gehoord van Tyler the Creator, een zeer populaire rapper en R&B artiest maar ik vond zijn muziek maar niks. Ik herinner me dat ik het zag als een mix van allemaal irritante geluiden en zijn stem vond ik nog het ergst van al! Toch dacht ik om even te luisteren naar zijn nieuwe release: "Call Me If You Get Lost: The Estate Sale". Ik weet nog dat ik me aan het scheren was toen ik voor de eerste keer luisterde. Sommige tracks spraken echt tot mij:
-
-
+Ik had al enkele keren gehoord van **Tyler the Creator**, een zeer populaire rapper en R&B artiest maar ik vond zijn muziek maar niks. Ik herinner me dat ik het zag als een mix van allemaal irritante geluiden en zijn stem vond ik nog het ergst van al! Toch dacht ik om even te luisteren naar zijn nieuwe release: "**Call Me If You Get Lost: The Estate Sale**". Ik weet nog dat ik me aan het scheren was toen ik voor de eerste keer luisterde. Sommige tracks spraken echt tot mij:
 
 * SIR BAUDELAIRE (feat. DJ Drama) - Deze intro pakte me bij mijn kraag en liet me niet meer los. Vooral de instrumental sprak me aan, het voelt bijna vragend: "zet je neer en luister naar wat ik je ga vertellen".
 * MANIFESTO (feat. Domo Genesis) - Deze beat was voor een lange tijd mijn favoriet, het is prachtig simpel. Uren aan een stuk kon ik hier naar luisteren.
@@ -31,6 +23,4 @@ Ik had al enkele keren gehoord van Tyler the Creator, een zeer populaire rapper 
 * DOGTOOTH - Deze beat was zodanig verslavend, ik heb dit kapot geluisterd. Ik beluisterde dit nummer zeker twintig keer per dag, waardoor ik nu de lyrics en vocals niet meer zo goed vind! Ik kan wel nog steeds zien wat voor een passie er in deze production steekt: het voelt alsof de instrumentals aan het dansen zijn met zijn vocals.
 * SORRY NOT SORRY - Dit was het, dit nummer heeft me verkocht. Dit voelt bijna als een film, de cinematische opzet heeft me nooit losgelaten en dit is nog steeds één van mijn favoriete nummers.
 
-
-
-Na te luisteren naar SORRY NOT SORRY wilde ik meer. Ik luisterde in twee weken naar al zijn nummers.
+Na te luisteren naar **SORRY NOT SORRY** wilde ik meer. Ik luisterde in twee weken naar al zijn nummers.

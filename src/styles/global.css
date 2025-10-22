@@ -93,6 +93,12 @@ main ul {
 #postContent {
     margin: 5% 10% 0 10%;
 }
+#postContent p,
+#postContent li {
+    margin-bottom: 35px;
+    font-size: 22px;
+}
+
 /* Footer */
 footer {
     position: fixed;
@@ -104,12 +110,16 @@ footer {
 /* Images */
 
 .bigImage {
-    max-width: 500px;
+    max-width: 1000px;
     width: 100%;
     height: auto;
     margin-bottom: 20px;
 }
 
-.floatRight {
-    float: right;
+@media (min-width: 1150px) {
+    .floatRight {
+        float: right;
+        margin-left: 30px;
+        max-width: 600px;
+    }
 }

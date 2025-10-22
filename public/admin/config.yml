@@ -10,7 +10,7 @@ collections:
       fields: # The fields for each document, usually in frontmatter
           - {
                 label: "Layout",
-                name: "layout",
+                name: "../../layouts/MarkdownPostLayout.astro",
                 widget: "hidden",
                 default: "blog",
             }

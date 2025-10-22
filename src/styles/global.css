@@ -91,7 +91,7 @@ main ul {
     font-size: 18px;
 }
 #postContent {
-    margin: 20px;
+    margin: 5% 10% 0 10%;
 }
 /* Footer */
 footer {
@@ -99,4 +99,17 @@ footer {
     bottom: 0;
     text-align: center;
     width: 100%;
+}
+
+/* Images */
+
+.bigImage {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.floatRight {
+    float: right;
 }

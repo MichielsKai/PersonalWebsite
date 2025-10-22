@@ -5,11 +5,11 @@ const { frontmatter } = Astro.props;
 
 <BaseLayout pageTitle={frontmatter.title}>
     <div id="postContent">
+        <img src=`${frontmatter.thumbnail}` class="bigImage floatRight" />
         <h1>{frontmatter.title}</h1>
         <p>{frontmatter.pubDate.toString().slice(0, 10)}</p>
         <p><em>{frontmatter.description}</em></p>
-        <img src=`${frontmatter.thumbnail}` width="300" />
         <slot />
-        <a href="/">Go Back</a>
+        <a href="/" id="backButton">Go Back</a>
     </div>
 </BaseLayout>

@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: My Third Blog Post
 description: "I had some challenges, but asking in the community really helped!"
-thumbnail: src/assets/images/foto_cds.jpg
+thumbnail: /assets/images/foto_cds.jpg
 pubDate: 2022-07-15
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---

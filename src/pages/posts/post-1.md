@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: "My First Blog Post"
 pubDate: 2022-07-01
 description: "This is the first post of my new Astro blog."
-thumbnail: src/assets/images/foto_cds.jpg
+thumbnail: /assets/images/foto_cds.jpg
 tags: ["astro", "blogging", "learning in public"]
 ---
 

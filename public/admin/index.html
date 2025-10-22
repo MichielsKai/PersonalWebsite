@@ -10,17 +10,5 @@
     <body>
         <script src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        <script>
-            // ensure widget exists and initialize so it reads the invite_token hash
-            if (window.netlifyIdentity) {
-                window.netlifyIdentity.init();
-                // optional: redirect after login to admin root (helps if widget processes token on another page)
-                window.netlifyIdentity.on("login", () => {
-                    if (!location.pathname.startsWith("/admin")) {
-                        location.href = "/admin/";
-                    }
-                });
-            }
-        </script>
     </body>
 </html>
